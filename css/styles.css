@@ -5,18 +5,46 @@ body {
     margin: 0;
     padding: 2em;
     height: 90vh;
-    background: url(../img/icon.png) 95% 95% no-repeat;
+    background: url(../img/logo_noir.png) 95% 95% no-repeat;
     background-size: 20vh;
 }
 h1 {
-    font-size: 1.5em;
+    font-size: 5em;
     font-weight: normal;
-    margin: 0;
+    margin: auto;
     padding: 0;
+    text-align: center; 
+}
+h2 {
+    font-size: 4em;
+    font-weight: normal;
+    margin: auto;
+    padding: 0;
+    text-align: center; 
+}
+h3 {
+    font-size: 3em;
+    font-weight: normal;
+    margin: auto;
+    padding: 0;
+    text-align: center; 
+}
+.balance {
+    font-size: 14em;
+    font-weight: bold;
+    margin: auto;
+    padding: 0;
+    text-align: center; 
 }
 p {
     width: 80vw;
+    text-align: center; 
 }
 a {
     color: #369;
+    text-align: center; 
+}
+.operations {
+  margin-top: 8em;
+
 }

@@ -1,6 +1,6 @@
 var GHPATH = '/load_bracelet_demo';
 var APP_PREFIX = 'load_';
-var VERSION = 'version_002';
+var VERSION = 'version_011';
 var URLS = [    
   `${GHPATH}/`,
   `${GHPATH}/index.html`,
