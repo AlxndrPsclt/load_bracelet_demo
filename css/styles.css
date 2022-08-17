@@ -9,28 +9,28 @@ body {
     background-size: 20vh;
 }
 h1 {
-    font-size: 5em;
-    font-weight: normal;
+    font-size: 3em;
+    font-weight: bold;
     margin: auto;
     padding: 0;
     text-align: center; 
 }
 h2 {
-    font-size: 4em;
+    font-size: 2em;
     font-weight: normal;
     margin: auto;
     padding: 0;
     text-align: center; 
 }
 h3 {
-    font-size: 3em;
+    font-size: 1em;
     font-weight: normal;
     margin: auto;
     padding: 0;
     text-align: center; 
 }
 .balance {
-    font-size: 14em;
+    font-size: 11em;
     font-weight: bold;
     margin: auto;
     padding: 0;
@@ -45,6 +45,6 @@ a {
     text-align: center; 
 }
 .operations {
-  margin-top: 8em;
+  margin-top: 3em;
 
 }
