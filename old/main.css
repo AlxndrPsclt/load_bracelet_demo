@@ -2,7 +2,8 @@ i* {
   box-sizing: border-box;
 }
 .container {
-  width: 1000px;
+  width: 100%;
+  height: 100%;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
@@ -12,11 +13,11 @@ button:focus {
 }
 .deck {
   margin: 15px;
-  width: 270px;
-  height: 380px;
+  width: 100%;
+  height: 100%;
   position: relative;
-  -webkit-perspective: 1000px;
-  perspective: 1000px;
+  -webkit-perspective: 100%;
+  perspective: 100%;
   font-family: verdana;
   border-radius: 10px;
 }
@@ -82,7 +83,6 @@ button:focus {
   box-shadow: 5px 5px 5px #aaa;
 }
 .bottext {
-  position: absolute;
   color: whitesmoke;
   width: 100%;
   height: 100px;
@@ -90,6 +90,7 @@ button:focus {
   border-radius: 0 0 10px 10px;
   text-align: center;
   padding: 10px;
+  font-size: 5em;
 }
 .bottext h2 {
   margin: 0;
@@ -105,7 +106,6 @@ button:focus {
   padding: 10px;
   border-radius: 4px;
   cursor: pointer;
-  position: absolute;
   margin: 0 auto;
   left: 0;
   right: 0;

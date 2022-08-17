@@ -1,0 +1,17 @@
+{
+  "name": "Load, the future of cashless",
+  "short_name": "LOAD",
+  "description": "Demo of LOAD bracelet functionality",
+  "scope": "/load_bracelet_demo/",
+  "start_url": "/load_bracelet_demo/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone", 
+  "icons": [
+      {
+        "src": "/github-page-pwa/img/icon.png",
+        "type": "image/png",
+        "sizes": "700x700"
+      }
+  ]
+}
